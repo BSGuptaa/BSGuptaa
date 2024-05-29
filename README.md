@@ -51,6 +51,13 @@ Data Cleaning and Preprocessing, Exploratory Data Analysis (EDA), Data Visualiza
 
 **Technology Stack:** Python, Jupyter Notebook
 
+## [2. Marketing Campaign Analysis with Pandas](https://github.com/BSGuptaa/Marketing-Campaign-Analysis)
+
+Explore marketing campaign data for an online subscription business using Python and Pandas. Analyze performance, referral channels, and reasons for underperformance.
+
+**Key Highlights:**
+- Assess data quality and content, engineer new features, and automate retention, conversion, and segmentation analysis tasks. Visualize user segmentation differences, diagnose campaign issues, and perform A/B testing for statistical significance using lifts and t-tests.
+
 
 Feel free to explore the linked repositories to dive deeper into the project details and review the code. If you have any questions or feedback, please don't hesitate to get in touch!
 
